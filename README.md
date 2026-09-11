@@ -25,9 +25,9 @@ Com base nos problemas mapeados, o grupo desenvolveu uma proposta de redesign em
 
 | Avaliador |
 |-------|
-| [Gabriel Porto](https://github.com/devgabrielporto07) |
-| [Luiz Kaynan](https://github.com/kaynan-CC) |
-| [João Vitor](https://github.com/joaovitorq69-stack) | 
+| [Gabriel Porto -Avaliador-1](https://github.com/devgabrielporto07) | 
+| [Luiz Kaynan -Avaliador-2](https://github.com/kaynan-CC) | 
+| [João Vitor -Avaliador-3](https://github.com/joaovitorq69-stack) |  
 
 ---
 
