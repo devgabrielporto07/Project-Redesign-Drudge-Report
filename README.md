@@ -23,11 +23,11 @@ Com base nos problemas mapeados, o grupo desenvolveu uma proposta de redesign em
 
 ## 👥 Avaliadores
 
-| Avaliador | Papel |
-|-----------|-------|
-| ![Gabriel Porto](https://github.com/devgabrielporto07) | Avaliador 1 |
-| ![Luiz Kaynan](https://github.com/kaynan-CC) | Avaliador 2 |
-| ![João Vitor](https://github.com/joaovitorq69-stack) | Avaliador 3 |
+| Avaliador |
+|-------|
+| [Gabriel Porto](https://github.com/devgabrielporto07) |
+| [Luiz Kaynan](https://github.com/kaynan-CC) |
+| [João Vitor](https://github.com/joaovitorq69-stack) | 
 
 ---
 
@@ -68,7 +68,7 @@ O grupo identificou violações em **7 heurísticas de Nielsen**, listadas abaix
 ![Telas iniciais original](assets/antes/Tela-3-Drudge-Report.png)
 ![Telas iniciais original](assets/antes/Tela-4-Drudge-Report.jpg)
 
-> 🔗 [Clique aqui para visualizar o site](#https://www.drudgereport.com/)
+[Clique aqui para visualizar o site](https://www.drudgereport.com/)
 
 
 ### Depois
@@ -87,7 +87,7 @@ O grupo identificou violações em **7 heurísticas de Nielsen**, listadas abaix
 
 ## 🎨 Acesse o Redesign no Figma
 
-> 🔗 [Clique aqui para visualizar o protótipo no Figma](#https://www.figma.com/design/HK0EidLRQaRsq7OMyIsZtW/Design-Drudge-Report--c%C3%B3pia-?node-id=0-1&t=WK70OmNYqBS4Am4f-1)
+[Clique aqui para visualizar o protótipo no Figma](https://www.figma.com/design/HK0EidLRQaRsq7OMyIsZtW/Design-Drudge-Report--c%C3%B3pia-?node-id=0-1&t=WK70OmNYqBS4Am4f-1)
 
 ---
 
